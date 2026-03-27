@@ -1,6 +1,6 @@
 # 👩‍💻 Hi, I'm Preeti Nagarale  
 
-🚀 Aspiring Machine Learning Engineer | AI Enthusiast  
+🚀 Aspiring AI/ML Engineer | AI Enthusiast  
 
 ---
 
