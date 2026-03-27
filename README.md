@@ -51,32 +51,6 @@ I enjoy solving real-world problems using AI and continuously improving my skill
 -  Handwritten Digit Recognition (Deep Learning)
 -  Spam Detection System (NLP)
  and many more
----
-
-##  GitHub Stats
-
-![Preeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Preeti-1611&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Preeti-1611&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=Preeti-1611&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🔝 Top Contributions
-
-![](https://github-contributor-stats.vercel.app/api?username=Preeti-1611&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 👀 Profile Views
-
-![](https://visitcount.itsvg.in/api?id=Preeti-1611&icon=0&color=0)
-
----
+ ---
 
 ⭐️ From [Preeti-1611](https://github.com/Preeti-1611)
