@@ -49,6 +49,11 @@ I enjoy solving real-world problems using AI and continuously improving my skill
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Preeti-1611&layout=compact&theme=tokyonight)
 
+
+## 🔥 Streak Stats:
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Preeti-1611&theme=tokyonight&hide_border=true)
+
 ##  Featured Projects
 
 -  Face & Emotion Based Music Player (Computer Vision + ML)
