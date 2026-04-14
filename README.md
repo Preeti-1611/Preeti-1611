@@ -1,22 +1,35 @@
 # 👩‍💻 Hi, I'm Preeti Nagarale  
 
-🔭 I’m currently working on
+## 👋 About Me:
+
+🔭 **I’m currently working on**  
 A Flight Delay Prediction System using Machine Learning, along with exploring OCR for extracting information from images.
 
-👯 I’m looking to collaborate on
+👯 **I’m looking to collaborate on**  
 Machine Learning, NLP, and Computer Vision projects, especially real-world and practical applications.
 
-🤝 I’m looking for help with
+🤝 **I’m looking for help with**  
 Improving model accuracy, feature engineering, and optimizing models for better performance.
 
-🌱 I’m currently learning
+🌱 **I’m currently learning**  
 Natural Language Processing (NLP), OpenCV, and advanced Machine Learning & Deep Learning concepts.
 
-💬 Ask me about
+💬 **Ask me about**  
 Python, NumPy, Pandas, EDA, Machine Learning, and Deep Learning concepts.
 
-⚡ Fun fact
+⚡ **Fun fact**  
 I enjoy building real-world ML projects like prediction systems and exploring how AI can solve everyday problems 🚀
+
+---
+
+## 💻 Tech Stack:
+- Python  
+- NumPy, Pandas  
+- Scikit-learn  
+- TensorFlow, Keras  
+- Matplotlib, Seaborn  
+- OpenCV  
+- NLP  
 
 ---
 
