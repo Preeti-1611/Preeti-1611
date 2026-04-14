@@ -1,16 +1,22 @@
 # 👩‍💻 Hi, I'm Preeti Nagarale  
 
-🚀 Aspiring AI/ML Engineer | AI Enthusiast  
+🔭 I’m currently working on
+A Flight Delay Prediction System using Machine Learning, along with exploring OCR for extracting information from images.
 
----
+👯 I’m looking to collaborate on
+Machine Learning, NLP, and Computer Vision projects, especially real-world and practical applications.
 
-## 👩‍💻 About Me
+🤝 I’m looking for help with
+Improving model accuracy, feature engineering, and optimizing models for better performance.
 
-Final-year Computer Science Engineering student (CGPA: 8.3) with a strong passion for Artificial Intelligence and Machine Learning. Skilled in Python, Deep Learning, NLP, OpenCV, and Data Analytics, with hands-on experience building real-world projects such as a Face & Emotion Based Music Player, Smart Resume Screening System, Handwritten Digit Recognition, and Spam Detection.
+🌱 I’m currently learning
+Natural Language Processing (NLP), OpenCV, and advanced Machine Learning & Deep Learning concepts.
 
-I enjoy solving real-world problems using AI and continuously improving my skills by working on practical, impactful projects. Currently seeking opportunities to contribute, learn, and grow as a Machine Learning Engineer.
+💬 Ask me about
+Python, NumPy, Pandas, EDA, Machine Learning, and Deep Learning concepts.
 
-⚡ Beyond tech, I express creativity through dancing, singing, and art.
+⚡ Fun fact
+I enjoy building real-world ML projects like prediction systems and exploring how AI can solve everyday problems 🚀
 
 ---
 
